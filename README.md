@@ -13,6 +13,21 @@ Personal reading collection exploring federated learning, knowledge distillation
 
 PDFs are in `papers/`, numbered in this order. Papers remain subject to their respective authors' and publishers' licenses; this repository does not relicense them.
 
+## Second reading batch
+
+The numbering continues the first reading list. Availability checked on 2026-10-28. A missing number means the PDF could not be retrieved, not that a different paper was substituted.
+
+| No. | Paper | Local availability | Source / saved version |
+| --- | --- | --- | --- |
+| 07 | FedBKD: Heterogenous Federated Learning via Bidirectional Knowledge Distillation for Modulation Classification in IoT-Edge System | PDF download blocked | [Publisher](https://ieeexplore.ieee.org/document/9963546), IEEE JSTSP 2023 |
+| 08 | DaFKD: Domain-Aware Federated Knowledge Distillation | PDF downloaded | [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf) |
+| 09 | Domain Generalization for Cross-Receiver Radio Frequency Fingerprint Identification | PDF downloaded | [arXiv v1, 2024](https://arxiv.org/abs/2411.03636v1) |
+| 10 | Receiver-Agnostic Radio Frequency Fingerprint Identification via Federated Learning | PDF download blocked | [Publisher](https://ieeexplore.ieee.org/document/11373634/), IEEE TMLCN 2026 |
+| 11 | An Uncertainty Quantification Framework for Deep Learning-Based Automatic Modulation Classification | PDF downloaded | [arXiv v2, 2025-12-02](https://arxiv.org/abs/2503.04142v2); first posted 2025, journal issue 2026 |
+| 12 | Reliability-Gated RF Consistency Learning for Open-Set Spectrum Sensing | PDF download blocked | [Publisher preview](https://www.sciencedirect.com/science/article/pii/S1874490726003617), online 2026 |
+
+See [access notes](papers/ACCESS_NOTES.md) for the outstanding downloads and DOI links.
+
 ## Candidate research question
 
 Can a receiver estimate whether shared knowledge will help under its current RF conditions, rather than relying only on teacher confidence or update age?
