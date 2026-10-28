@@ -1,23 +1,19 @@
 # Second-batch access notes
 
-Checked on 2026-10-28. Three of the six requested PDFs were downloaded and verified by parsing their pages and checking their first-page titles. Their numbering follows the recommended reading order.
+Updated on 2026-10-28. Four second-batch PDFs are available: three downloaded copies and the user-supplied replacement for paper 07. Their page counts and first-page titles were checked. Numbering follows the reading order, with the requested replacement recorded below.
 
 ## Downloaded
 
+- **07 FedDHKD:** user-supplied IEEE TrustCom 2025 paper, 9 pages. Replaces the originally recommended FedBKD at the user's request. [DOI: 10.1109/Trustcom66490.2025.00342](https://doi.org/10.1109/Trustcom66490.2025.00342).
 - **08 DaFKD:** publisher-hosted CVPR paper, 10 pages.
 - **09 Cross-receiver domain generalization / FedRIEI:** arXiv 2411.03636v1, 12 pages.
 - **11 AMC uncertainty quantification:** arXiv 2503.04142v2, 11 pages.
 
+## Replacement for 07
+
+FedDHKD: A Lightweight Federated Learning Framework Based on Dynamic Hierarchical Knowledge Distillation for 5G IoT is a different paper from FedBKD. It was supplied by the user and assigned number 07 on request. FedBKD is no longer an outstanding download in this batch.
+
 ## Outstanding PDFs
-
-### 07 FedBKD
-
-Full title: FedBKD: Heterogenous Federated Learning via Bidirectional Knowledge Distillation for Modulation Classification in IoT-Edge System.
-
-- [Publisher record](https://ieeexplore.ieee.org/document/9963546)
-- [DOI: 10.1109/JSTSP.2022.3224597](https://doi.org/10.1109/JSTSP.2022.3224597)
-- IEEE's PDF download endpoint returned HTTP 418. No downloadable author or institutional copy was located in the searches performed.
-- A publisher or library download, or an author-provided copy, is still needed. The FedBKD acronym is also used by unrelated papers; check the complete title.
 
 ### 10 Receiver-agnostic federated RF fingerprint identification
 
@@ -38,4 +34,4 @@ Full title: Reliability-Gated RF Consistency Learning for Open-Set Spectrum Sens
 - Publisher preview offers institutional access or PDF purchase. The PDF request returned HTTP 403. No downloadable author or institutional copy was located in the searches performed.
 - The preview is not the full paper. No abstract, summary or access-error page has been saved as a substitute PDF.
 
-No access controls were bypassed and no purchases were made. Once the remaining PDFs are obtained, place them under prefixes 07, 10 and 12 and update this record and the root reading list.
+No access controls were bypassed and no purchases were made. Once the remaining PDFs are obtained, place them under prefixes 10 and 12 and update this record and the root reading list.

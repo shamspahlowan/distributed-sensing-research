@@ -19,7 +19,7 @@ The numbering continues the first reading list. Availability checked on 2026-10-
 
 | No. | Paper | Local availability | Source / saved version |
 | --- | --- | --- | --- |
-| 07 | FedBKD: Heterogenous Federated Learning via Bidirectional Knowledge Distillation for Modulation Classification in IoT-Edge System | PDF download blocked | [Publisher](https://ieeexplore.ieee.org/document/9963546), IEEE JSTSP 2023 |
+| 07 | FedDHKD: A Lightweight Federated Learning Framework Based on Dynamic Hierarchical Knowledge Distillation for 5G IoT | PDF supplied by user; replaces FedBKD | [DOI](https://doi.org/10.1109/Trustcom66490.2025.00342), IEEE TrustCom 2025 |
 | 08 | DaFKD: Domain-Aware Federated Knowledge Distillation | PDF downloaded | [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_DaFKD_Domain-Aware_Federated_Knowledge_Distillation_CVPR_2023_paper.pdf) |
 | 09 | Domain Generalization for Cross-Receiver Radio Frequency Fingerprint Identification | PDF downloaded | [arXiv v1, 2024](https://arxiv.org/abs/2411.03636v1) |
 | 10 | Receiver-Agnostic Radio Frequency Fingerprint Identification via Federated Learning | PDF download blocked | [Publisher](https://ieeexplore.ieee.org/document/11373634/), IEEE TMLCN 2026 |
